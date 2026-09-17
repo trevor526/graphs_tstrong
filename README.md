@@ -1,4 +1,5 @@
-# graphs_tmota
+# graphs_tstrong
+URL: https://github.com/trevor526/graphs_tstrong.git
 
 A Python library implementing Dijkstra's shortest path algorithm
 
